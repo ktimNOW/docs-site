@@ -86,6 +86,8 @@ The rate limit of BSC endpoint on Testnet and Mainnet is 10K/5min.
 
 * ANKR: <https://app.ankr.com/api>
 
+* [NOWNodes](https://nownodes.io/): <https://nownodes.io/binance-smart-chain>
+
 * [Chainstack](https://chainstack.com/): <https://chainstack.com/build-better-with-binance-smart-chain/>
 
 * [GetBlock.io](https://getblock.io/): <https://getblock.io/nodes/bsc>
@@ -93,6 +95,8 @@ The rate limit of BSC endpoint on Testnet and Mainnet is 10K/5min.
 * QuickNode : <https://quicknode.com>
 
 * [NodeReal](https://nodereal.io/): <https://binance.nodereal.io>
+
+
 
 
 ## Start
